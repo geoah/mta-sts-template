@@ -1,0 +1,12 @@
+version: STSv1
+mode: testing
+max_age: 604800
+
+;; Uncomment for Google Workspaces
+;; mx: *.googlemail.com
+;; mx: *.aspmx.l.google.com
+;;mx: aspmx.l.google.com
+
+;; Uncomment for Fastmail
+mx: in1-smtp.messagingengine.com
+mx: in2-smtp.messagingengine.com
